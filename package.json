@@ -1,0 +1,12 @@
+{
+    "name": "toa_nodered",
+    "description": "NodeRED section of Toa prject",
+    "version": "0.0.1",
+    "dependencies": {},
+    "node-red": {
+        "settings": {
+            "flowFile": "flows_toa.json",
+            "credentialsFile": "flows_toa_cred.json"
+        }
+    }
+}
